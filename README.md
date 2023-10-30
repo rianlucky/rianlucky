@@ -6,7 +6,7 @@
   <h1 href="https://github.com/DenverCoder1/readme-typing-svg">Hi There! I'm Rian Lucas <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
 </p>
 <p allign="center">
-<img src="https://cue-equitytools.usc.edu/assets/emoji/animations/happy-711b959044694b1eaae440cb986137588036d58ebd61f035cbb486d4f762192a.gif" width = 60px marginright= 20px><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=FFFFFF&size=20&lines=Hy!;Welcome+to+my+GitHub+Profile!;I'm+a+Dev+Fullstack;And+I+studying+I.T.+on+UNIVESP" />
+<img src="https://cue-equitytools.usc.edu/assets/emoji/animations/happy-711b959044694b1eaae440cb986137588036d58ebd61f035cbb486d4f762192a.gif" width = 60px marginright= 20px><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=FFFFFF&size=20&lines=Hi!;Welcome+to+my+GitHub+Profile!;I'm+a+Dev+Fullstack;And+I+studying+I.T.+on+UNIVESP" />
 </p>
 <h1></h1>
 
