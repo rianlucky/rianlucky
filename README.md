@@ -1,76 +1,160 @@
+<!-- ===================== HEADER ===================== -->
 <p align="center">
-    <img src=".\assets\rianbanner.png">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:1f6feb,100:2ea043&text=Rian%20Lucas&fontColor=ffffff&fontSize=60&fontAlignY=35&desc=People%20Analytics%20%E2%80%A2%20Dados%20%E2%80%A2%20Dev%20Fullstack&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Rian Lucas">
 </p>
-
-<p>
-  <h1 href="https://github.com/DenverCoder1/readme-typing-svg">Hi There! I'm Rian Lucas <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
-</p>
-<p allign="center">
-<img src="https://cue-equitytools.usc.edu/assets/emoji/animations/happy-711b959044694b1eaae440cb986137588036d58ebd61f035cbb486d4f762192a.gif" width = 60px marginright= 20px><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=FFFFFF&size=20&lines=Hi!;Welcome+to+my+GitHub+Profile!;I'm+a+Dev+Fullstack;And+I+studying+I.T.+on+UNIVESP" />
-</p>
-<h1></h1>
-
-<p>| Passionate Developer 🚀 </p>
-<p>| Lucky Enthusiast 🍀</p>
-<p>| Crafting elegant code to bring ideas to life. 🖋️</p>
-<p>| Let's collaborate and create amazing projects together! 🤝</p>
-
-### 🛠 &nbsp;Tech Stack
 
 <p align="center">
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
-![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=600&lines=Transformo+dados+de+pessoas+em+decis%C3%B5es+%F0%9F%93%8A;Python+%E2%80%A2+Streamlit+%E2%80%A2+SQL+%E2%80%A2+Power+BI;Angular+%E2%80%A2+TypeScript+%E2%80%A2+Java;Estudante+de+T.I.+na+UNIVESP+%F0%9F%8E%93" alt="Typing SVG">
 </p>
 
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p allign="center">
-<a href="https://github.com/rianlucky"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rianlucky&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></a><a href="https://github.com/rianlucky"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rianlucky&layout=compact&langs_count=8&theme=algolia"/></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/rian-lucas-souza/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:rian.lucassj@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://komarev.com/ghpvc/?username=rianlucky&style=flat-square&color=1f6feb&label=visitas" alt="Visitas">
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+---
 
-<p allignitems="row">
+## 👨🏽‍💻 Sobre mim
 
-<a href="#">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
-<a href="#">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="#">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="#">![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=white)</a>
-<a href="#">!![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
-<a href="#">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
+<table>
+<tr>
+<td width="58%" valign="top">
 
-<a href="#">![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)</a>
-<a href="#">![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)</a>
-<a href="#">![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)</a>
-<a href="#">![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)</a>
+🇧🇷 Atuo com **People Analytics** na **Pacaembu Construtora**. Construo os painéis e indicadores de Gente & Dados: headcount, turnover, remuneração e equidade salarial. Faço tudo de ponta a ponta, do tratamento dos dados ao app no ar.
 
+Venho do **desenvolvimento fullstack** (Angular, Java, Node). É isso que me permite ir além do dashboard e entregar **ferramentas de verdade**, com login, banco de dados e deploy.
 
+🇺🇸 I work in **People Analytics** at Pacaembu Construtora, building HR dashboards and metrics end to end (headcount, turnover, pay equity). My background is **fullstack development**, so I ship data products, not just reports.
+
+</td>
+<td width="42%" valign="top">
+
+```yaml
+rian:
+  atuação: People Analytics & Dados
+  base: Dev Fullstack
+  empresa: Pacaembu Construtora
+  estudando: T.I. @ UNIVESP
+  local: Diadema - SP
+  agora:
+    - Hub de Indicadores de Gente
+    - Painéis em Streamlit + Postgres
+    - Automação com IA (Claude)
+  fora_do_código: 🎮 games e 🍀 sorte
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠 Tech Stack
+
+<table>
+<tr>
+<td align="center" width="140"><b>📊 Dados</b></td>
+<td>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" title="Python" alt="Python">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" title="Pandas" alt="Pandas">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40" title="NumPy" alt="NumPy">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="40" title="Streamlit" alt="Streamlit">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="40" title="Plotly" alt="Plotly">&nbsp;
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="40" title="Power BI" alt="Power BI">&nbsp;
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="40" title="Excel" alt="Excel">
+</td>
+</tr>
+<tr>
+<td align="center"><b>🗄️ Bancos & Plataformas</b></td>
+<td>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL" alt="PostgreSQL">&nbsp;
+  <img src="https://cdn.simpleicons.org/neon/00E599" width="40" title="Neon" alt="Neon">&nbsp;
+  <img src="https://cdn.simpleicons.org/databricks/FF3621" width="40" title="Databricks" alt="Databricks">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" title="SQL Server" alt="SQL Server">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" title="MySQL" alt="MySQL">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" width="40" title="SQLAlchemy" alt="SQLAlchemy">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB" alt="MongoDB">
+</td>
+</tr>
+<tr>
+<td align="center"><b>💻 Dev</b></td>
+<td>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" title="Angular" alt="Angular">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" title="TypeScript" alt="TypeScript">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" title="JavaScript" alt="JavaScript">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" title="Java" alt="Java">&nbsp;
+  <img src="https://cdn.simpleicons.org/flask/888888" width="40" title="Flask" alt="Flask">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" alt="Node.js">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" title="React" alt="React">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" title="HTML5" alt="HTML5">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" title="CSS3" alt="CSS3">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap" alt="Bootstrap">
+</td>
+</tr>
+<tr>
+<td align="center"><b>🧰 Ferramentas & IA</b></td>
+<td>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" title="Git" alt="Git">&nbsp;
+  <img src="https://cdn.simpleicons.org/github/888888" width="40" title="GitHub" alt="GitHub">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" title="VS Code" alt="VS Code">&nbsp;
+  <img src="https://cdn.simpleicons.org/claude/D97757" width="40" title="Claude / Claude Code" alt="Claude">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="40" title="Jupyter" alt="Jupyter">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="40" title="Canva" alt="Canva">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="40" title="Photoshop" alt="Photoshop">
+</td>
+</tr>
+</table>
+
+---
+
+## 📌 Projetos em destaque
+
+<p align="center">
+  <a href="https://github.com/rianlucky/hub_indicadores"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rianlucky&repo=hub_indicadores&theme=transparent&hide_border=true&title_color=1f6feb&icon_color=2ea043" alt="hub_indicadores"></a>
+  <a href="https://github.com/rianlucky/aderencia-salarial"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rianlucky&repo=aderencia-salarial&theme=transparent&hide_border=true&title_color=1f6feb&icon_color=2ea043" alt="aderencia-salarial"></a>
+  <a href="https://github.com/rianlucky/headcount-total"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rianlucky&repo=headcount-total&theme=transparent&hide_border=true&title_color=1f6feb&icon_color=2ea043" alt="headcount-total"></a>
+  <a href="https://github.com/rianlucky/angular-sol-locacao-de-veiculos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rianlucky&repo=angular-sol-locacao-de-veiculos&theme=transparent&hide_border=true&title_color=1f6feb&icon_color=2ea043" alt="angular-sol-locacao-de-veiculos"></a>
+  <a href="https://github.com/rianlucky/match-report-go"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rianlucky&repo=match-report-go&theme=transparent&hide_border=true&title_color=1f6feb&icon_color=2ea043" alt="match-report-go"></a>
+  <a href="https://rianlucky.github.io/abrigo-meimei/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rianlucky&repo=abrigo-meimei&theme=transparent&hide_border=true&title_color=1f6feb&icon_color=2ea043" alt="abrigo-meimei"></a>
 </p>
 
------
+---
 
- 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rianlucky&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=1f6feb&icon_color=2ea043" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianlucky&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=1f6feb" alt="Top languages">
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rianlucky&theme=transparent&hide_border=true&ring=1f6feb&fire=2ea043&currStreakLabel=1f6feb" alt="GitHub streak">
+</p>
+
+---
+
+## 🤝 Conexões
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rian-lucas-souza/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:rian.lucassj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://github.com/rianlucky"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.instagram.com/riaan.png/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+</p>
+
+### 🎮 Bora jogar?
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Discord-r14nn5008-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: r14nn5008">
+  <a href="https://steamcommunity.com/id/R1444N/"><img src="https://img.shields.io/badge/Steam-R1444N-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam: R1444N"></a>
+  <img src="https://img.shields.io/badge/PSN-tear__in__the__rian-0070D1?style=for-the-badge&logo=playstation&logoColor=white" alt="PSN: tear_in_the_rian">
+  <img src="https://img.shields.io/badge/Xbox-Ri14n-107C10?style=for-the-badge&logo=xbox&logoColor=white" alt="Xbox: Ri14n">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Epic_Games-0047730e61c74ce0adfecd00decc8f11-313131?style=for-the-badge&logo=epicgames&logoColor=white" alt="Epic Games ID">
+</p>
+
+<!-- ===================== FOOTER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2ea043,50:1f6feb,100:0d1117&section=footer" width="100%" alt="">
+</p>
