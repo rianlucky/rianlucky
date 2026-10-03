@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=600&lines=Transformo+dados+de+pessoas+em+decis%C3%B5es+%F0%9F%93%8A;Python+%E2%80%A2+Streamlit+%E2%80%A2+SQL+%E2%80%A2+Power+BI;Angular+%E2%80%A2+TypeScript+%E2%80%A2+Java;Estudante+de+T.I.+na+UNIVESP+%F0%9F%8E%93" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=600&lines=Transformo+dados+de+pessoas+em+decis%C3%B5es+%F0%9F%93%8A;Python+%E2%80%A2+Streamlit+%E2%80%A2+SQL+%E2%80%A2+Power+BI;Angular+%E2%80%A2+TypeScript+%E2%80%A2+Java;Formado+em+T.I.+pela+UNIVESP+%F0%9F%8E%93" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -23,9 +23,9 @@
 
 🇧🇷 Atuo com **People Analytics** na **Pacaembu Construtora**. Construo os painéis e indicadores de Gente & Dados: headcount, turnover, remuneração e equidade salarial. Faço tudo de ponta a ponta, do tratamento dos dados ao app no ar.
 
-Venho do **desenvolvimento fullstack** (Angular, Java, Node). É isso que me permite ir além do dashboard e entregar **ferramentas de verdade**, com login, banco de dados e deploy.
+Sou **formado em T.I. pela UNIVESP** e venho do **desenvolvimento fullstack** (Angular, Java, Node). É isso que me permite ir além do dashboard e entregar **ferramentas de verdade**, com login, banco de dados e deploy.
 
-🇺🇸 I work in **People Analytics** at Pacaembu Construtora, building HR dashboards and metrics end to end (headcount, turnover, pay equity). My background is **fullstack development**, so I ship data products, not just reports.
+🇺🇸 I work in **People Analytics** at Pacaembu Construtora, building HR dashboards and metrics end to end (headcount, turnover, pay equity). I hold a degree in I.T. from UNIVESP and my background is **fullstack development**, so I ship data products, not just reports.
 
 </td>
 <td width="42%" valign="top">
@@ -35,7 +35,7 @@ rian:
   atuação: People Analytics & Dados
   base: Dev Fullstack
   empresa: Pacaembu Construtora
-  estudando: T.I. @ UNIVESP
+  formação: T.I. @ UNIVESP 🎓
   local: Diadema - SP
   agora:
     - Hub de Indicadores de Gente
